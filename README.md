@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.fajarpos.com/"><strong>www.fajarpos.com</strong></a>
+  <a href="https://www.fajarpos.com/"><strong>Fajarpos Network</strong></a>
 </p>
-  <br>
 </p>
 <hr>
 
