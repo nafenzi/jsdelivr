@@ -1,4 +1,4 @@
-<h1 align="center">Fajarpos Media</h1>
+<h1 align="center"><a href="https://www.fajarpos.com/">Fajarpos Media</a></h1>
 
 <p align="center">
   <img src="https://www.fajarpos.com/dir/gambar/2023/06/Logo-Fajarpos.com-60.png" alt="Fajarpos Logo" width="300px" height="60px"/>
