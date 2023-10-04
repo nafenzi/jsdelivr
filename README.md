@@ -1,15 +1,14 @@
-<h1 align="center">jsDelivr - Open Source CDN</h1>
+<h1 align="center">Fajarpos Media</h1>
 
 <p align="center">
-  <img src="https://www.jsdelivr.com/icon_256x256.png" alt="jsdelivr-logo" width="128px" height="128px"/>
+  <img src="https://www.fajarpos.com/dir/gambar/2023/06/Logo-Fajarpos.com-60.png" alt="Fajarpos Logo" width="128px" height="128px"/>
   <br>
-  <i>A global super-fast and production focused CDN, tightly integrated with NPM and GitHub
-    <br> with support for on-the-fly optimizations, ES modules, detailed download stats and more</i>
+  <i>Media Siber Fajarpos.com : Regional, Nasional, dan Internasional.</i>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://www.jsdelivr.com"><strong>www.jsdelivr.com</strong></a>
+  <a href="https://www.fajarpos.com/"><strong>www.fajarpos.com</strong></a>
   <br>
 </p>
 
