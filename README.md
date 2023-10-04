@@ -9,9 +9,7 @@
 
 <p align="center">
   <a href="https://www.fajarpos.com/"><strong>www.fajarpos.com</strong></a>
-  <br>
 </p>
-  <br>
   <br>
 </p>
 <hr>
