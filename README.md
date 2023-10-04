@@ -1,7 +1,7 @@
 <h1 align="center">Fajarpos Media</h1>
 
 <p align="center">
-  <img src="https://www.fajarpos.com/dir/gambar/2023/06/Logo-Fajarpos.com-60.png" alt="Fajarpos Logo" width="328px" height="90px"/>
+  <img src="https://www.fajarpos.com/dir/gambar/2023/06/Logo-Fajarpos.com-60.png" alt="Fajarpos Logo" width="328px" height="60px"/>
   <br>
   <i>Media Siber Fajarpos.com : Regional, Nasional, dan Internasional.</i>
   <br>
